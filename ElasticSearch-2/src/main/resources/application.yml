@@ -1,0 +1,14 @@
+#server:
+#  port: 9900
+#  
+#  
+#  
+#  
+#spring:
+#  data:
+#    elasticsearch:
+#      repositories:
+#        enabled: true
+#      
+#        
+#

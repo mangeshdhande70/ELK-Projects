@@ -1,0 +1,19 @@
+
+server:
+  port: 9999
+
+
+spring:
+  data:
+    elasticsearch:
+      username: elastic
+      password: X=SKzh0V4x4tOJAGG5yP
+      host: 127.0.0.1
+      port: 9200
+
+logging:
+  file:
+    name: D:\Personal\Spring All\Elastic Search Projects\log\ELK-Stack\elk.log
+      
+#logging:
+#    name: D:\Personal\Spring All\Elastic Search Projects\log\ELK-Stack\ell.log
